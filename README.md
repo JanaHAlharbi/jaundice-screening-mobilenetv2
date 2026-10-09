@@ -101,16 +101,14 @@ For comparison, a model that always answers "normal" scores 74% accuracy and 0% 
 
 ## Team
 
-- Name 1
-- Name 2
-- Name 3
+- Jana
+- Ghala
+- Asalah
 
 ## Acknowledgements
 
-- Our instructor, [name], for the guidance that shaped the final approach.
+- Our instructor, Asma, for the guidance that shaped the final approach.
 - Saudi Digital Academy and atomcamp for the bootcamp.
 - The authors of the NJN dataset for making it public.
 
-## A note on AI assistance
 
-We used an AI assistant (Claude) to help write code and explain concepts. We ran the experiments, inspected the wrong predictions, and made the decisions.
